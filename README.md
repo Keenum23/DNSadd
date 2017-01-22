@@ -1,6 +1,6 @@
 # DNSadd
 
-This is the beginning stages of an application that will add servers back into DNS that get removed. It will read in the server names along with their IP Addresses from a text file using a space as the delimiter.
+This is the beginning stages of an application that will add servers back into DNS that get removed. It will read in the server names along with their IP Addresses from a text file using a space as the delimiter. Many thanks to the guys on the vb forums and IronRazerz https://social.msdn.microsoft.com/Forums/vstudio/en-US/859a1083-0151-4ca2-a5dd-0b99f4cfafb2/listview-beginner-question?forum=vbgeneral
 
 Example servers.txt:  
 SERVERNAME1 192.168.1.1  
