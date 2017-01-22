@@ -1,0 +1,11 @@
+c:\users\ckeen\documents\visual studio 2017\Projects\Snip2\Snip2\bin\Debug\Snip2.exe.config
+c:\users\ckeen\documents\visual studio 2017\Projects\Snip2\Snip2\bin\Debug\Snip2.exe
+c:\users\ckeen\documents\visual studio 2017\Projects\Snip2\Snip2\bin\Debug\Snip2.pdb
+c:\users\ckeen\documents\visual studio 2017\Projects\Snip2\Snip2\bin\Debug\Snip2.xml
+c:\users\ckeen\documents\visual studio 2017\Projects\Snip2\Snip2\obj\Debug\Snip2.vbprojResolveAssemblyReference.cache
+c:\users\ckeen\documents\visual studio 2017\Projects\Snip2\Snip2\obj\Debug\Snip2.Form1.resources
+c:\users\ckeen\documents\visual studio 2017\Projects\Snip2\Snip2\obj\Debug\Snip2.Resources.resources
+c:\users\ckeen\documents\visual studio 2017\Projects\Snip2\Snip2\obj\Debug\Snip2.vbproj.GenerateResource.Cache
+c:\users\ckeen\documents\visual studio 2017\Projects\Snip2\Snip2\obj\Debug\Snip2.exe
+c:\users\ckeen\documents\visual studio 2017\Projects\Snip2\Snip2\obj\Debug\Snip2.xml
+c:\users\ckeen\documents\visual studio 2017\Projects\Snip2\Snip2\obj\Debug\Snip2.pdb
