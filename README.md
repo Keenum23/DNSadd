@@ -15,5 +15,5 @@ The PowerShell command is: Import-CSV -Path "c:\test\failedpvsdns.csv" | ForEach
 ==========================  
 To Do:  
 
-*The last step will be to email my team's distro if any servers had to be added back to DNS using this app. Not yet ready
+The last step will be to email my team's distro if any servers had to be added back to DNS using this app. Not yet ready
 ==========================  
