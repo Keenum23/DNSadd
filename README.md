@@ -12,4 +12,8 @@ The location of the text file is C:\test\servers.txt. Once the servers are loade
 
 The PowerShell command is: Import-CSV -Path "c:\test\failedpvsdns.csv" | ForEach-Object { dnscmd.exe DomainController.com /RecordAdd DomainAddress.com $.SERVER A $.IP }
 
+==========================  
+To Do:  
+
 *The last step will be to email my team's distro if any servers had to be added back to DNS using this app. Not yet ready
+==========================  
